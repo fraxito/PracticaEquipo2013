@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Formularios
 {
-    public partial class Fraxito : Form
+    public partial class Fraxito2 : Form
     {
-        public Fraxito()
+        public Fraxito2()
         {
             InitializeComponent();
         }
