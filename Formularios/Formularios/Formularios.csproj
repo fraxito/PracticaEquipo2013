@@ -50,11 +50,11 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Fraxito.cs">
+    <Compile Include="Fraxito2.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Fraxito.Designer.cs">
-      <DependentUpon>Fraxito.cs</DependentUpon>
+    <Compile Include="Fraxito2.Designer.cs">
+      <DependentUpon>Fraxito2.cs</DependentUpon>
     </Compile>
     <Compile Include="Jorge.cs">
       <SubType>Form</SubType>

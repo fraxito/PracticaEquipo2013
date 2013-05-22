@@ -1,6 +1,6 @@
 ﻿namespace Formularios
 {
-    partial class Fraxito
+    partial class Fraxito2
     {
         /// <summary>
         /// Required designer variable.
