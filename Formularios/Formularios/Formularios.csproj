@@ -69,6 +69,8 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Jorge.resx">
       <DependentUpon>Jorge.cs</DependentUpon>
+    <EmbeddedResource Include="Fraxito2.resx">
+      <DependentUpon>Fraxito2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
